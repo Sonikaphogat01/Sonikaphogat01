@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonika Phogat</h1>
 <h3 align="center">A passionate developer from India</h3>
-<image src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
-<image src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fpudgypenguins-data-code-coding-2IudUHdI075HL02Pkk&psig=AOvVaw10WAn4v_nJYEQEykrJ15SM&ust=1709220811549000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCH9tGxzoQDFQAAAAAdAAAAABAE">
-
-- 🔭 I’m currently working on **Tic Tac Toe game using css, java and HTML**
+<img src ="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+- 🔭 I’m currently working on **visual studio code**
 
 - 🌱 I’m currently learning **CSS,HTML and JAVASCRIPT**
 
