@@ -3,8 +3,6 @@
 <image src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 <image src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fpudgypenguins-data-code-coding-2IudUHdI075HL02Pkk&psig=AOvVaw10WAn4v_nJYEQEykrJ15SM&ust=1709220811549000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCH9tGxzoQDFQAAAAAdAAAAABAE">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonikaphogat01" alt="sonikaphogat01" /></a> </p>
-
 - 🔭 I’m currently working on **Tic Tac Toe game using css, java and HTML**
 
 - 🌱 I’m currently learning **CSS,HTML and JAVASCRIPT**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonikaphogat01&show_icons=true&locale=en&layout=compact" alt="sonikaphogat01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonikaphogat01&show_icons=true&locale=en" alt="sonikaphogat01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonikaphogat01&" alt="sonikaphogat01" /></p>
